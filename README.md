@@ -1,9 +1,4 @@
-# DSAI-HW2-2021
-
----
-tags: DSAI
----
-# DSAI HW2 - AutoTrading
+# DSAI AutoTrading
 
 ## Overview
 
